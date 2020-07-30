@@ -1,3 +1,5 @@
 Changes is made for developers
 Chnage made to understand .git
 modified from  master
+
+modify in master branch to test git merge from git hub
