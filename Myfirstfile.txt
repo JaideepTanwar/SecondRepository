@@ -3,3 +3,4 @@ Chnage made to understand .git
 modified from  master
 
 modify in master branch to test git merge from git hub.
+modify in master branch to test git merge from git.
