@@ -1,1 +1,2 @@
 Changes is made for developers
+Chnage made to understand .git
